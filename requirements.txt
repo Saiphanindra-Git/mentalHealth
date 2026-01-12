@@ -1,0 +1,23 @@
+# Core ML Libraries
+torch==2.1.0
+transformers==4.36.0
+datasets==2.15.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Explainability
+shap==0.44.0
+
+# Progress bars
+tqdm==4.66.1
+
+# Jupyter (optional for notebooks)
+jupyter==1.0.0
+ipykernel==6.27.1
